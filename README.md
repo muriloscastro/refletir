@@ -93,10 +93,9 @@ Nosso projeto não possui licença formal, permitindo o uso para estudo e agrega
 - Imersão IA  <br>
 https://www.youtube.com/watch?v=_xV9Pcvkq_Y <br>
 https://www.youtube.com/watch?v=Ez80tsAUCMo <br>
-https://youtube.com/live/1Rke1tO9GCk
 
 ## Autor
 
-Murilo de Souza Castro
-muriloscastro/refletir
-Petrópolis-RJ 17/05/2025
+Murilo de Souza Castro <br>
+git: muriloscastro/refletir <br>
+Petrópolis-RJ 17/05/2025 <br>
