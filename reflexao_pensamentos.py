@@ -17,7 +17,16 @@ def refletir_pensamentos():
     A opção '4' no menu principal encerra o loop externo, finalizando a execução
     do programa com uma mensagem de encerramento. A função trata entradas inválidas
     com uma mensagem de erro.
+
+    Inclusão da variavel de ambiente API (GOOGLE_API_KEY) para armazenar na memória do colab,
+    no caso de possiveis utilizações no código.
+    A biblioteca utilizada é a "os" de sistema operacional.
+    A variavel environ seria "environment" nas linguagens atuais.
     """
+    import os
+    from google.colab import userdata
+    os.environ['GOOGLE_API_KEY'] = userdata.get ('GOOGLE_API_KEY')
+    
     while True:
         print("\nBem-vindo(a) ao espaço de reflexão sobre nossos pensamentos e interações.")
         print("Escolha um dos seguintes cenários para explorar:")
@@ -58,6 +67,7 @@ def refletir_pensamentos():
                 if retornar_cenario != 's':
                     break
         elif cenario == '4':
+            print("Obrigado por participar deste projeto.")
             print("Encerrando o programa de reflexão.")
             break
         else:
