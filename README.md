@@ -91,8 +91,8 @@ Nosso projeto não possui licença formal, permitindo o uso para estudo e agrega
 
 ## Refêrencias
 - Imersão IA  <br>
-https://www.youtube.com/watch?v=_xV9Pcvkq_Y
-https://www.youtube.com/watch?v=Ez80tsAUCMo
+https://www.youtube.com/watch?v=_xV9Pcvkq_Y <br>
+https://www.youtube.com/watch?v=Ez80tsAUCMo <br>
 https://youtube.com/live/1Rke1tO9GCk
 
 ## Autor
