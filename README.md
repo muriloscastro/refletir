@@ -26,9 +26,9 @@ O Refletir explora os seguintes temas:
 
 ## Como Usar
 
-1.  Clone este repositório (se aplicável).
-2.  Execute o script Python (`nome_do_script.py`) em um ambiente Python
--  Google Colab -> Em teste.
+1.  Clone este repositório (se necessário).
+2.  Execute o script Python (`reflexao_pensamentos.py`) em um ambiente Python
+-  Google Colab -> Ambiente que foi utlizado para testar o codigo Python.
 -  Ambiente local -> Necessário implementar/testar.
 3.  Siga as instruções no console para escolher um cenário e responder às perguntas.
 4.  Leia as reflexões apresentadas ao final de cada interação.
@@ -88,6 +88,12 @@ Temos muito trabalho pela frente e juntos podemos contruir um projeto bem legal,
 ## Licença
 
 Nosso projeto não possui licença formal, permitindo o uso para estudo e agregação de valor. Caso haja interesse em seguir com a ideia, gostaria de ser informado para participação e colaboração.
+
+## Refêrencias
+- Imersão IA  <br>
+https://www.youtube.com/watch?v=_xV9Pcvkq_Y
+https://www.youtube.com/watch?v=Ez80tsAUCMo
+https://youtube.com/live/1Rke1tO9GCk
 
 ## Autor
 
