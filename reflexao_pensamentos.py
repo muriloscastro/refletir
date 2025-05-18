@@ -1,3 +1,4 @@
+!pip install google-genai
 def refletir_pensamentos():
     """
     Função principal que implementa um programa interativo de reflexão textual.
